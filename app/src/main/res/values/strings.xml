@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schrott2</string>
+    <string name="info_gallery">::industrial music bar - gallery::</string>
+    <string name="info_location">::Křenová 10, 602 00, Brno::</string>
+    <string name="info_tel">::tel(12:00 – 22:00)  +420 723 635 237::</string>
+    <string name="info_facebook">::www.facebook.com/schrottbrno::</string>
+    <string name="info_url">::http://www.schrott.cz/::</string>
+    <string name="info_reserve">::REZERVACE::</string>
+    <string name="img1_description">background image</string>
+    <string name="img2_description">schrott headline</string>
+    <string name="img3_description">background image2</string>
+    <string name="info_head">I N F O</string>
+</resources>
